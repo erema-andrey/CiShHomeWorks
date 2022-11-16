@@ -1,0 +1,15 @@
+D:\Examples\CiShHomeWorks\homework001\bin\Debug\net6.0\homework001.exe
+D:\Examples\CiShHomeWorks\homework001\bin\Debug\net6.0\homework001.deps.json
+D:\Examples\CiShHomeWorks\homework001\bin\Debug\net6.0\homework001.runtimeconfig.json
+D:\Examples\CiShHomeWorks\homework001\bin\Debug\net6.0\homework001.dll
+D:\Examples\CiShHomeWorks\homework001\bin\Debug\net6.0\homework001.pdb
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.csproj.AssemblyReference.cache
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.AssemblyInfoInputs.cache
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.AssemblyInfo.cs
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.csproj.CoreCompileInputs.cache
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.dll
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\refint\homework001.dll
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.pdb
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\homework001.genruntimeconfig.cache
+D:\Examples\CiShHomeWorks\homework001\obj\Debug\net6.0\ref\homework001.dll
