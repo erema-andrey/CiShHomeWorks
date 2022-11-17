@@ -21,17 +21,19 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
+
 // Console.WriteLine("Введи число");
-// int anyNumber = Convert.ToInt32(Console.ReadLine());
-// string anyNumberText = Convert.ToString(anyNumber);
-// if (anyNumberText.Length > 2)
+// int number = Convert.ToInt32(Console.ReadLine());
+// string variable = Convert.ToString(number);
+// if (variable.Length > 2)
 // {
-//   Console.WriteLine("третья цифра" + anyNumberText[2]);
+//     Console.WriteLine($"Третья цифра:" + variable[2]);
 // }
 // else
-//  {
-//   Console.WriteLine("третьей цифры нет");
+// {
+//   Console.WriteLine("Третьей цифры нет");
 // }
+
 
 
 
@@ -40,20 +42,37 @@
 // 7 -> да
 // 1 -> нет
 
-Console.Write("Введи цифру, обозначающую день недели");
-int dayNumber = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введи цифру, обозначающую день недели");
+// int date = Convert.ToInt32(Console.ReadLine());
 
-void CheckingTheDayOfTheWeek (int dayNumber) 
-{
-  if (dayNumber == 6 || dayNumber == 7) 
-  {
-  Console.WriteLine("(день выходной)  да");
-  }
-  else if (dayNumber < 1 || dayNumber > 7) 
-  {
-    Console.WriteLine("это не день недели");
-  }
-  else Console.WriteLine("(день не выходной)  нет");
-}
+// if (date == 6 || date == 7)
+// {
+//   Console.WriteLine("Выходной");
+// }
+// else if(date < 1 || date > 7)
+// {
+//   Console.WriteLine("В неделе 7 дней");
+// }
+// else 
+// {
+//   Console.WriteLine("Рабочий день");
+// }
 
-CheckingTheDayOfTheWeek(dayNumber);
+
+
+// Console.Write("Введи цифру, обозначающую день недели");
+// int dayNumber = Convert.ToInt32(Console.ReadLine());
+// void CheckingTheDayOfTheWeek (int dayNumber) 
+// {
+//   if (dayNumber == 6 || dayNumber == 7) 
+//   {
+//   Console.WriteLine("(день выходной)  да");
+//   }
+//   else if (dayNumber < 1 || dayNumber > 7) 
+//   {
+//     Console.WriteLine("это не день недели");
+//   }
+//   else Console.WriteLine("(день не выходной)  нет");
+// }
+
+// CheckingTheDayOfTheWeek(dayNumber);
