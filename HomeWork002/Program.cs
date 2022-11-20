@@ -5,6 +5,20 @@
 // 12821 -> да
 // 23432 -> да
 
+// Console.WriteLine("Введите пятизначное число: "); 
+// int number = Convert.ToInt32(Console.ReadLine()); 
+// string strNumber = Convert.ToString(number); 
+ 
+// bool StrNumber(string num) 
+// { 
+// return strNumber[0] == strNumber[4] && strNumber[1] == strNumber[3]; 
+// } 
+ 
+// Console.WriteLine(StrNumber(strNumber) ? "Является палиндромом" : "Не является палиндромом");
+
+
+
+
 // Console.Write("Введите число: ");
 // string? number = Console.ReadLine();
 
