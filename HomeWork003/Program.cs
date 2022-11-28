@@ -2,46 +2,87 @@
 // Напишите программу, которая покажет количество чётных чисел в массиве.
 // [345, 897, 568, 234] -> 2
 
-var array = FillArray(4);
-Print (array);
-Console.WriteLine(); 
-EvenNum(array);
-Print(array);
 
-void EvenNum(int[]arr)
+// int[] NewArrayRandom(int size, int min, int max)
+// {
+//     int[] arr = new int[size];
+//     Random rnd = new Random();
 
-{
-     int[] numbers = {};
-            var count = 0;
-            for (var i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-                    count++;
-                }
-            }
-}
- 
-Console.WriteLine("Чётных чисел в массиве: " + count);
-Console.ReadLine();
-  
-int[] FillArray(int length)
-{
-    int[] array = new int[length];
-    for(int i = 0; i < length; i++)
-    {
-        array[i] = new Random().Next(100,999);
-    }
-    return array;
-}
-void Print(int[] array)
-{
-     foreach(var item in array)
-     {
-        Console.Write($"{item}, ");
-     }
-}
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         arr[i] = rnd.Next(min, max + 1);
+//     }
+//     return arr;
+// }
+
+// void PrintArray(int[] arr)
+// {
+//     Console.Write("[");
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         if (i < arr.Length - 1)
+//             Console.Write($"{arr[i]}, ");
+//         else Console.Write($"{arr[i]}");
+//     }
+//     Console.WriteLine("]");
+// }
+// Console.Write("Выводим массив на печать: ");
+// int[] array = NewArrayRandom(5, 100, 999);
+// PrintArray(array);
+
+// int EvenNumber(int[] arr)
+// {
+//     int count = 0;
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         if (arr[i] % 2 == 0) count++;
+//     }
+//     return count;
+// }
+
+// int evenNumber = EvenNumber(array);
+// Console.WriteLine($"Количество четных чисел в массиве ----> {evenNumber}");
+
+
+
+
+// var array = FillArray(4);
+// Print (array);
+// Console.WriteLine(); 
+// EvenNum(array);
+// Print(array);
+
+// void EvenNum(int[]arr)
+// {
+//      int[] numbers = {};
+//             var count = 0;
+//             for (var i = 0; i < numbers.Length; i++)
+//             {
+//                 if (numbers[i] % 2 == 0)
+//                 {
+//                     Console.WriteLine(numbers[i]);
+//                     count++;
+//                 }
+//             }
+// }
+// Console.WriteLine("Чётных чисел в массиве: "+ count );
+// Console.ReadLine();
+// int[] FillArray(int length)
+// {
+//     int[] array = new int[length];
+//     for(int i = 0; i < length; i++)
+//     {
+//         array[i] = new Random().Next(100,999);
+//     }
+//     return array;
+// }
+// void Print(int[] array)
+// {
+//      foreach(var item in array)
+//      {
+//         Console.Write($"{item}, ");
+//      }
+// }
 
 // Задача 36: Задайте одномерный массив, заполненный случайными числами. 
 // Найдите сумму элементов, стоящих на нечётных позициях.
