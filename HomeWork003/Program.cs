@@ -44,50 +44,60 @@
 // Console.WriteLine($"Количество четных чисел в массиве ----> {evenNumber}");
 
 
+// Console.Write("Введите элементы массива:\t");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int[] arry = new int[number];
+// FillArray(array); 
+// PrintArray(array);
+// Console.WriteLine($"{"Количество четных чисел:\t",33}{EvenNum(array)}");
 
-
-// var array = FillArray(4);
-// Print (array);
-// Console.WriteLine(); 
-// EvenNum(array);
-// Print(array);
-
-// void EvenNum(int[]arr)
+// int EvenNum(int[]arr)
 // {
-//      int[] numbers = {};
-//             var count = 0;
-//             for (var i = 0; i < numbers.Length; i++)
-//             {
-//                 if (numbers[i] % 2 == 0)
-//                 {
-//                     Console.WriteLine(numbers[i]);
-//                     count++;
-//                 }
-//             }
-// }
-// Console.WriteLine("Чётных чисел в массиве: "+ count );
-// Console.ReadLine();
-// int[] FillArray(int length)
-// {
-//     int[] array = new int[length];
-//     for(int i = 0; i < length; i++)
-//     {
-//         array[i] = new Random().Next(100,999);
-//     }
-//     return array;
-// }
-// void Print(int[] array)
-// {
-//      foreach(var item in array)
+//      int amounts = 0;
+//      foreach (int item in arr)
 //      {
-//         Console.Write($"{item}, ");
+//           if (item % 2 == 0)
+//           {
+//              amounts++;
+//           } 
 //      }
+//      return amounts;
+// }   
+                
+// void FillArray(int[] arr)
+// {
+   
+//     for(int i = 0; i < arr.length; i++)
+//     {
+//         arr[i] = new Random().Next(100,999);
+//     }
 // }
+
+// void PrintArray(int[] arr)
+// {
+//     for (int i = 0; i < arr.Length; i ++)
+//     {
+//         if (i == arr.Length - 1)
+//         {
+//             Console.WriteLine($"{arr[i]}");
+//         }
+//         else 
+//         {
+//             Console.Write($"{arr[i]}, ");
+//         }
+//     }
+
+// }
+
+
 
 // Задача 36: Задайте одномерный массив, заполненный случайными числами. 
 // Найдите сумму элементов, стоящих на нечётных позициях.
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
+
+ 
+
 
 // var array = FillArray(4);
 // Print (array);
