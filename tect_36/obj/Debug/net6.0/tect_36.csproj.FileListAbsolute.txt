@@ -1,0 +1,15 @@
+D:\Examples\CiShHomeWorks\tect_36\bin\Debug\net6.0\tect_36.exe
+D:\Examples\CiShHomeWorks\tect_36\bin\Debug\net6.0\tect_36.deps.json
+D:\Examples\CiShHomeWorks\tect_36\bin\Debug\net6.0\tect_36.runtimeconfig.json
+D:\Examples\CiShHomeWorks\tect_36\bin\Debug\net6.0\tect_36.dll
+D:\Examples\CiShHomeWorks\tect_36\bin\Debug\net6.0\tect_36.pdb
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.csproj.AssemblyReference.cache
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.AssemblyInfoInputs.cache
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.AssemblyInfo.cs
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.csproj.CoreCompileInputs.cache
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.dll
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\refint\tect_36.dll
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.pdb
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\tect_36.genruntimeconfig.cache
+D:\Examples\CiShHomeWorks\tect_36\obj\Debug\net6.0\ref\tect_36.dll

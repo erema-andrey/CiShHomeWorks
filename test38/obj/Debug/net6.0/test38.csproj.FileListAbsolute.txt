@@ -1,0 +1,15 @@
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.csproj.AssemblyReference.cache
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.AssemblyInfoInputs.cache
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.AssemblyInfo.cs
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.csproj.CoreCompileInputs.cache
+D:\Examples\CiShHomeWorks\test38\bin\Debug\net6.0\test38.exe
+D:\Examples\CiShHomeWorks\test38\bin\Debug\net6.0\test38.deps.json
+D:\Examples\CiShHomeWorks\test38\bin\Debug\net6.0\test38.runtimeconfig.json
+D:\Examples\CiShHomeWorks\test38\bin\Debug\net6.0\test38.dll
+D:\Examples\CiShHomeWorks\test38\bin\Debug\net6.0\test38.pdb
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.dll
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\refint\test38.dll
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.pdb
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\test38.genruntimeconfig.cache
+D:\Examples\CiShHomeWorks\test38\obj\Debug\net6.0\ref\test38.dll
