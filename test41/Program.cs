@@ -5,7 +5,7 @@
 // 1, -7, 567, 89, 223-> 3
 
 
-Console.Write("Введите числа через запятую: ");
+Console.Write("Введите числа  ");
 int[] numbers = StringToNum(Console.ReadLine());
 PrintArray(numbers);
 int sum = 0;
