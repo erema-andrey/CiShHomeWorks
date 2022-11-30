@@ -1,0 +1,15 @@
+D:\Examples\CiShHomeWorks\test43\bin\Debug\net6.0\test43.exe
+D:\Examples\CiShHomeWorks\test43\bin\Debug\net6.0\test43.deps.json
+D:\Examples\CiShHomeWorks\test43\bin\Debug\net6.0\test43.runtimeconfig.json
+D:\Examples\CiShHomeWorks\test43\bin\Debug\net6.0\test43.dll
+D:\Examples\CiShHomeWorks\test43\bin\Debug\net6.0\test43.pdb
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.csproj.AssemblyReference.cache
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.AssemblyInfoInputs.cache
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.AssemblyInfo.cs
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.csproj.CoreCompileInputs.cache
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.dll
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\refint\test43.dll
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.pdb
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\test43.genruntimeconfig.cache
+D:\Examples\CiShHomeWorks\test43\obj\Debug\net6.0\ref\test43.dll
