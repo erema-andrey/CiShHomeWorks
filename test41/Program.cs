@@ -82,5 +82,3 @@ int[] StringToNum(string input)
 // }
  
 // Console.WriteLine($"Кол-во элементов > 0: {count}");
-
-
