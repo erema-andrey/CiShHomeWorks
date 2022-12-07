@@ -1,0 +1,15 @@
+D:\Examples\CiShHomeWorks\test58\bin\Debug\net6.0\test58.exe
+D:\Examples\CiShHomeWorks\test58\bin\Debug\net6.0\test58.deps.json
+D:\Examples\CiShHomeWorks\test58\bin\Debug\net6.0\test58.runtimeconfig.json
+D:\Examples\CiShHomeWorks\test58\bin\Debug\net6.0\test58.dll
+D:\Examples\CiShHomeWorks\test58\bin\Debug\net6.0\test58.pdb
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.csproj.AssemblyReference.cache
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.AssemblyInfoInputs.cache
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.AssemblyInfo.cs
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.csproj.CoreCompileInputs.cache
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.dll
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\refint\test58.dll
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.pdb
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\test58.genruntimeconfig.cache
+D:\Examples\CiShHomeWorks\test58\obj\Debug\net6.0\ref\test58.dll
