@@ -2,22 +2,12 @@
 // которая будет построчно выводить массив, добавляя индексы каждого элемента.
 // Массив размером 2 x 2 x 2
 
-Console.WriteLine($"\nВведите размер массива X x Y x Z:");
-int x = InputNumbers("Введите X: ");
-int y = InputNumbers("Введите Y: ");
-int z = InputNumbers("Введите Z: ");
+Console.WriteLine($"\nВведите размер массива 2 x 2 x 2:");
 Console.WriteLine($"");
 
-int[,,] array3D = new int[x, y, z];
+int[,,] array3D = new int[2, 2, 2];
 CreateArray(array3D);
 WriteArray(array3D);
-
-int InputNumbers(string input)
-{
-  Console.Write(input);
-  int output = Convert.ToInt32(Console.ReadLine());
-  return output;
-}
 
 void WriteArray (int[,,] array3D)
 {
