@@ -1,0 +1,15 @@
+D:\Examples\CiShHomeWorks\test66\bin\Debug\net6.0\test66.exe
+D:\Examples\CiShHomeWorks\test66\bin\Debug\net6.0\test66.deps.json
+D:\Examples\CiShHomeWorks\test66\bin\Debug\net6.0\test66.runtimeconfig.json
+D:\Examples\CiShHomeWorks\test66\bin\Debug\net6.0\test66.dll
+D:\Examples\CiShHomeWorks\test66\bin\Debug\net6.0\test66.pdb
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.csproj.AssemblyReference.cache
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.AssemblyInfoInputs.cache
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.AssemblyInfo.cs
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.csproj.CoreCompileInputs.cache
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.dll
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\refint\test66.dll
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.pdb
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\test66.genruntimeconfig.cache
+D:\Examples\CiShHomeWorks\test66\obj\Debug\net6.0\ref\test66.dll
